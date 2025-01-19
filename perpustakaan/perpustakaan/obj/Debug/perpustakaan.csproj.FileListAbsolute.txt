@@ -1,0 +1,44 @@
+D:\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+D:\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.AssemblyReference.cache
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form1.resources
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.cache
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.CoreCompileInputs.cache
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.dashboard.resources
+D:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.AddBooks.resources
+D:\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+D:\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.AssemblyReference.cache
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.AddBooks.resources
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.dashboard.resources
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form1.resources
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.cache
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.CoreCompileInputs.cache
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.ViewBook.resources
+D:\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.AddStudents.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.AssemblyReference.cache
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.AddBooks.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.AddStudents.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.dashboard.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Form1.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.ViewBook.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.ViewStudent.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.cache
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.CoreCompileInputs.cache
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.IssueBook.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.CompliteBook.resources
+D:\Perkuliahan\Pemrogramman Lanjut\New folder\perpustakaan\perpustakaan\perpustakaan\obj\Debug\perpustakaan.ReturnBook.resources
